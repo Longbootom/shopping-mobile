@@ -55,7 +55,7 @@ export const popularProducts = [
   },
   {
     id:4,
-    img:"https://images.fpt.shop/unsafe/fit-in/960x640/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2021/9/20/637677376404580968_Samsung-galaxy-z-flip-3%20(6).jpg",
+    img:"https://images.fpt.shop/unsafe/fit-in/960x640/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/3/28/637840744434386187_Samsung%20Galaxy%20A13.jpg",
   },
   {
     id:5,
@@ -68,6 +68,14 @@ export const popularProducts = [
   {
     id:7,
     img:"https://images.fpt.shop/unsafe/fit-in/960x640/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2021/3/15/637514008887124768_DSC02333-13.jpg",
+  },
+  {
+    id:8,
+    img:"https://images.fpt.shop/unsafe/fit-in/960x640/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/3/28/637840744438761178_Samsung%20Galaxy%20A13-14.jpg",
+  },
+  {
+    id:8,
+    img:"https://images.fpt.shop/unsafe/fit-in/960x640/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2022/3/28/637840744438761178_Samsung%20Galaxy%20A13-14.jpg",
   },
   {
     id:8,

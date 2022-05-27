@@ -9,7 +9,7 @@ const Container = styled.div`
       rgba(255, 255, 255, 0.5)
     ),
     url("https://dreampro.vn/wp-content/uploads/2020/07/chup-anh-sp.jpg")
-      center;
+  center;
   background-size: cover;
   display: flex;
   align-items: center;
